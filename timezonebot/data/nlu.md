@@ -30,6 +30,12 @@
 - i need you to find a time zone
 - can you find me time zone ?
 - what time is it now ?
+- tell me the time zone
+- show me the time zone
+- what is the time zone
+- what time zone is it 
+- time zone
+- show more information about time zone 
 
 ## intent: find_time_zone_for_location
 - what is the time zone of London?
@@ -39,6 +45,8 @@
 - tell me the time zone of Singapore
 - show me China time zone
 - time zone of Brazil
+- Oslo time zone
+- what is the time in Prague
 
 ## intent: city_info
 - London
