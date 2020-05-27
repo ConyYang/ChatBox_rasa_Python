@@ -1,8 +1,8 @@
 
-### This is a chatbox implemented using python package rasa
+## This is a chatbox implemented using python package rasa
 
-To run this on your computer, follow the following steps: 
-Type this in terminal:
+#### To run this on your computer, follow the following steps: 
+1. Type this in terminal:
  - pip install rasa
  - rasa init
 2. cd timezonebot
@@ -12,7 +12,7 @@ stories.md in data file and domain.yml. Then train the model by typing
 the training.
 4. type "/stop" in terminal to end your talk.
 
-This chatbox has the these functions
+#### This chatbox has the these functions: 
 1. To check up the time zone of a city
 2. To give feedback to your mood. If you feel sad, it will send you a photo of tiger.
 3. Show you the profile of the most NB person in NTU
