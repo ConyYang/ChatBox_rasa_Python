@@ -16,3 +16,6 @@ the training.
 1. To check up the time zone of a city
 2. To give feedback to your mood. If you feel sad, it will send you a photo of tiger.
 3. Show you the profile of the most NB person in NTU
+
+#### Here is a simple illustration
+![Image text](img-folder/sample.png)
