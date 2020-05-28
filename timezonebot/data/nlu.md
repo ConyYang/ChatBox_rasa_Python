@@ -38,24 +38,24 @@
 - show more information about time zone 
 
 ## intent: find_time_zone_for_location
-- what is the time zone of London?
-- time zone of Lisbon
-- do you know the time zone of Berlin
-- i need to know the time zone of Mumbai
-- tell me the time zone of Singapore
-- show me China time zone
-- time zone of Brazil
-- Oslo time zone
-- what is the time in Prague
+- what is the time zone of [London](city)?
+- time zone of [Lisbon](city)
+- do you know the time zone of [Berlin](city)
+- i need to know the time zone of [Mumbai](city)
+- tell me the time zone of [Singapore](city)
+- show me [China](city) time zone
+- time zone of [Brazil](city)
+- [Oslo](city) time zone
+- what is the time in [Prague](city)
 
 ## intent: city_info
-- London
-- San Francisco
-- Shanghai
-- Singapore
-- New Delhi
-- Auckland
-- Oslo
+- [London](city)
+- [San Francisco](city)
+- [Shanghai](city)
+- [Singapore](city)
+- [New Delhi](city)
+- [Auckland](city)
+- [Oslo](city)
 
 ## intent: thanks
 - thank you
